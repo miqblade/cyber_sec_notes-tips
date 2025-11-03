@@ -12,5 +12,5 @@
 
 1 — Фізичний (Physical) — Кабелі, сигнали, біт / Cables, signals, bit
 
-<img width="384" height="606" alt="image" src="https://github.com/user-attachments/assets/5efc84de-93f6-453f-b9d3-48d26a96c87f" />
+                                            <img width="384" height="606" alt="image" src="https://github.com/user-attachments/assets/5efc84de-93f6-453f-b9d3-48d26a96c87f" />
 
