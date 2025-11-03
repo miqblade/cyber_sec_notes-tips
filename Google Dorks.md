@@ -1,6 +1,6 @@
 Google Dorks
 
-#Basic operators
+# Basic operators
 
 | Оператор |                 example  | Призначення (EN / UA)                  |
 | -------- | -----------------------: | -------------------------------------- |
@@ -20,7 +20,8 @@ Google Dorks
 | `intitle:`    |         `intitle:"index of"` | Word in page title / Слово в заголовку сторінки   |
 | `allintitle:` | `allintitle:dashboard login` | All words in title / Усі слова в заголовку        |
 
-#File search
+
+# File search
 
 | Оператор     |                       example | Purpose (EN / UA)                           |
 | ------------ | ----------------------------: | ------------------------------------------- |
