@@ -1,0 +1,6 @@
+1. Системні бібліотеки (os, platform, subprocess, psutil)
+2. Мережеві бібліотеки (socket, scapy, requests, http.client)
+3. Бібліотека для обробки даних (json, csv, re, base64, hashlib)
+4. Шифрування і криптографія (cryptography, pycryptodome, hashlib)
+5. OSINT, scraping, whois (whois, BeautifulSoup, shodan, virustotal, abuseipdb)
+6. Звіти, бд та збереження (reportlab, openpyxl, sqlite3)
